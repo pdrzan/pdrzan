@@ -1,5 +1,1 @@
-Sou um estudante de ciência da computação da UFMS. Tenho muito interesse na área de desenvolvimento e de dados. Aqui você pode ver alguns dos meus projetos. 
-
-Contato: pedro.zanelato@ufms.br
-
-Obs: pdrzanFilho é minha conta secundária.
+I’m a student of Computer Science very interested in software development and data science. Here you can see some of my projects.
