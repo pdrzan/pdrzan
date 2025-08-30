@@ -25,4 +25,3 @@ I'm a Full Stack developer at [EducareBox](https://www.agendadigitaleducarebox.c
 
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/pdrzan/)](https://www.linkedin.com/in/pdrzan/)
 [![Static Badge](https://img.shields.io/badge/Email-white?logo=gmail&link=mail@pedeozanelato19@gmail.com)](mailto:pedeozanelato19@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Instagram-black?logo=instagram&link=https://www.instagram.com/pdrzan/)](https://www.instagram.com/pdrzan/)
